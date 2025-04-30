@@ -1,0 +1,4 @@
+Duitai file jodesi yesto dekhinchha: Yo chai mero first text file ho hai. 
+Yo chai dosro ho., {flag: 'a'}Duitai file jodesi yesto dekhinchha: Yo chai mero first text file ho hai. 
+Yo chai dosro ho.Duitai file jodesi yesto dekhinchha: Yo chai mero first text file ho hai. 
+Yo chai dosro ho.
